@@ -19,4 +19,4 @@ Name - Ariel Schwartz
 ID- 313228876
 
 GitHub Pages Link 
-https://wed-2023.github.io/assignment1-313228876/
+https://wed-2023.github.io/313228876/
